@@ -4,4 +4,6 @@ Implementation of 2-layer perceptron with Numpy
   2. Loss Calculation
   3. Gradient calculation
   
-Implement above 3 components at NN.py
+- Implement above 3 components at NN.py
+
+- Korea University Information Retrieval(COSE 472) Assignment2
